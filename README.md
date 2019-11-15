@@ -4,7 +4,7 @@ buntu 14.04 only works.
 Installation (Ubuntu / Debian)
 Start the installation process:
 
-    wget https://raw.githubusercontent.com/FirezYT/xtream-codes-fixed/master/install.sh && chmod a+x install.sh && ./install.sh
+    wget https://raw.githubusercontent.com/ahmed803/xtream-codes-//master/install.sh && chmod a+x install.sh && ./install.sh
 
 Setup
 
